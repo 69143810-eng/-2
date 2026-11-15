@@ -28,7 +28,8 @@
 
 3.ออกแบบ Wireframe หน้าแรก บน Desktop
 
-https://www.figma.com/deck/WYUDBgsRwsxRHzYoLIJbeU/Untitled?node-id=2-563&t=eyapCgxm6nHK50mk-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
+https://app.site123.com/manager/wizard.php?wu=6d52b004c02af59e88e8b56ceb34d889
+
 
 4.อธิบายเหตุผลในการเลือกสี การจัดวาง และการออกแบบ
 
